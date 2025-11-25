@@ -1,0 +1,6 @@
+sample_id,site,profile,run
+youtube-net-rtt40_l0-run01,youtube.com,rtt40_l0,1
+youtube-net-rtt40_l0-run02,youtube.com,rtt40_l0,2
+...
+wiki-net-rtt80_l0-run01,wikipedia.org,rtt80_l0,1
+...

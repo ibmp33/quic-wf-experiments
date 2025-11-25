@@ -1,0 +1,5 @@
+[
+  { "name": "rtt40_l0",   "rtt_ms": 40,  "loss": 0.0,  "bandwidth_mbps": 50 },
+  { "name": "rtt80_l0",   "rtt_ms": 80,  "loss": 0.0,  "bandwidth_mbps": 50 },
+  { "name": "rtt40_l1e3", "rtt_ms": 40,  "loss": 0.001,"bandwidth_mbps": 50 }
+]
